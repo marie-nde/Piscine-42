@@ -1,0 +1,5 @@
+Credentials cache: API:3F52532D-1327-49DD-9C70-32B46EB386A3
+        Principal: mnaude@42.FR
+
+  Issued                Expires               Principal
+Jul  1 11:48:52 2019  Jul  8 11:48:52 2019  krbtgt/42.FR@42.FR
